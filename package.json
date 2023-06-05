@@ -1,0 +1,16 @@
+{
+  "name": "javascriptcommentmanager",
+  "version": "1.0.0",
+  "description": "A comment manager system made with javascript",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx esbuild ./javascript/app-unbundled.js --bundle --minify --outfile=./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Winner Ndakutemo",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.17.19"
+  }
+}
