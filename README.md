@@ -8,8 +8,8 @@ SO, I will recommend you to not professionally use this project!<br>
 <br>
 I didn't updated this for a great use and it's not completly what I expected.
 <br>
-notice that npm feature were added after projects' developpement(not when coding the project).<br>
+notice that npm features were added after projects' developpement(not when coding the project).<br>
 I learned npm after making this project. <br>
 <br>
 Then I will notice that the app.js file is a minified and bundled file. You can find the "official" app.js in the Javascript folder.<br>
-You can also view modules that i built for the app in the my_modules folder.<br>
+You can also find modules that i built for the app in the my_modules folder.<br>
